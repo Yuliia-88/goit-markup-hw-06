@@ -788,6 +788,7 @@ fill: currentColor;
     right: 28px;
     top: 50%;
     transform: translateY(-50%);
+    fill: var(--primary-background-color);
 }
 
 /* --------------------Страница Портфолио--------------------- */
